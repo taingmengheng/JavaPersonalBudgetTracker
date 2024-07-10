@@ -7,6 +7,7 @@ Personal Budget Tracker is a Java-based application designed to help users manag
 ## Features
 
 - **Add Expense**: Allows users to add an expense with details such as amount, name, category, date, and description.
+- **Remove Expense**:  Allows users to remove an expense by right clicking on the expense.
 - **View All Expenses**: Displays a list of all expenses added by the user.
 - **Remaining Budget**: Shows the remaining budget after accounting for all expenses.
 - **Expense Details**: Displays expense name, amount, and date.
